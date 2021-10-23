@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br> 
-<p align="center">
+<p align="left">
     <a href="https://github.com/Osprey-DS/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Osprey-DS&theme=tokyonight_duo&hide_border=true&stroke=0000&fire=DD2727"/>
     </a>
@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subha996&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 <br> 
-<p align="center">
+<p align="right">
   <a href="https://github.com/Osprey-DS/github-readme-stats"><img alt="Subha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osprey-DS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>  
  
  </p>
