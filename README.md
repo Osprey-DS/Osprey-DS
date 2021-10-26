@@ -3,10 +3,10 @@
 <h3 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi,Nice To Meet You</h3>
 <h3 align="center">.</h3>
 
-
+<p align="center">
 <!-- <img src= "https://thumbs.gfycat.com/MildFlashyAurochs-size_restricted.gif" width ="150" > -->
 <img src="https://bestanimations.com/media/robots/1473495192robot-animated-gif-image-24.gif" width="250" >
-
+</p>
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Studying+Machine+Learning;To+Teach+Machine">
